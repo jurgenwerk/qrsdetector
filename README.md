@@ -1,7 +1,7 @@
 qrsdetector
 ===========
 
-Electrocardiogram QRS complex detector using the WFDB library.
+Electrocardiogram QRS complex detector using the WFDB library in C.
 
 A real-time QRS detection method based on
 moving-averaging incorporating with wavelet denoising.
